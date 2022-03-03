@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tech.grasshopper</groupId>
 	<artifactId>extentreport-allure-annotation</artifactId>
-	<version>1.0</version>
+	<version>1.0.1</version>
 
 	<name>extentreport-allure-annotation</name>
 	<url>https://ghchirp.tech/3791</url>
@@ -72,16 +72,6 @@
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-plugin-plugin</artifactId>
-				<version>3.6.0</version>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-resources-plugin</artifactId>
-				<version>3.2.0</version>
 			</plugin>
 			<plugin>
 				<groupId>org.sonatype.plugins</groupId>

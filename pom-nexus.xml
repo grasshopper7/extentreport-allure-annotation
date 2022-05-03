@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tech.grasshopper</groupId>
 	<artifactId>extentreport-allure-annotation</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 
 	<name>extentreport-allure-annotation</name>
 	<url>https://ghchirp.tech/3791</url>
@@ -29,7 +29,7 @@
 	</developers>
 
 	<properties>
-		<allure.version>2.14.0</allure.version>
+		<allure.version>2.17.3</allure.version>
 	</properties>
 
 	<scm>
